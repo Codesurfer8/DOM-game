@@ -1,0 +1,12 @@
+.el {
+    height: 120px;
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.picture {
+    cursor: url(1e5dfed621bc000b5fdb.png), pointer;
+}
+
+

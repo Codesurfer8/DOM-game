@@ -1,0 +1,11 @@
+.el {
+    height: 120px;
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.picture {
+    cursor: url('../img/hammer_icon-icons.com_71180.png'), pointer;
+}
+
